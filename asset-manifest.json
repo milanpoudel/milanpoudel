@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/milanpoudel/static/css/main.b68cb901.chunk.css",
-    "main.js": "/milanpoudel/static/js/main.d85b7e03.chunk.js",
-    "main.js.map": "/milanpoudel/static/js/main.d85b7e03.chunk.js.map",
+    "main.js": "/milanpoudel/static/js/main.d54bb56c.chunk.js",
+    "main.js.map": "/milanpoudel/static/js/main.d54bb56c.chunk.js.map",
     "runtime~main.js": "/milanpoudel/static/js/runtime~main.1e92dd8c.js",
     "runtime~main.js.map": "/milanpoudel/static/js/runtime~main.1e92dd8c.js.map",
     "static/css/2.266e55a5.chunk.css": "/milanpoudel/static/css/2.266e55a5.chunk.css",
     "static/js/2.605e7755.chunk.js": "/milanpoudel/static/js/2.605e7755.chunk.js",
     "static/js/2.605e7755.chunk.js.map": "/milanpoudel/static/js/2.605e7755.chunk.js.map",
     "index.html": "/milanpoudel/index.html",
-    "precache-manifest.691aac1b135ee624141d0fbb876f15fe.js": "/milanpoudel/precache-manifest.691aac1b135ee624141d0fbb876f15fe.js",
+    "precache-manifest.60d39d2661f92a5554a47bcfe6ae0995.js": "/milanpoudel/precache-manifest.60d39d2661f92a5554a47bcfe6ae0995.js",
     "service-worker.js": "/milanpoudel/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/milanpoudel/static/css/2.266e55a5.chunk.css.map",
     "static/css/main.b68cb901.chunk.css.map": "/milanpoudel/static/css/main.b68cb901.chunk.css.map"

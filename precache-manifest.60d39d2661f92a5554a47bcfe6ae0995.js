@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f56616a9b4074d37ea7710dda1aa343c",
+    "revision": "9743194e31224e0458a99e42bda25f1b",
     "url": "/milanpoudel/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/milanpoudel/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "7f099018705c4480207e",
+    "revision": "dd6b3e40184a579ee5af",
     "url": "/milanpoudel/static/css/main.b68cb901.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/milanpoudel/static/js/2.605e7755.chunk.js"
   },
   {
-    "revision": "7f099018705c4480207e",
-    "url": "/milanpoudel/static/js/main.d85b7e03.chunk.js"
+    "revision": "dd6b3e40184a579ee5af",
+    "url": "/milanpoudel/static/js/main.d54bb56c.chunk.js"
   },
   {
     "revision": "7c012a89140d7efd9a5c",
